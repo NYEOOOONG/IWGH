@@ -26,4 +26,4 @@ jobs:
         with:
           status: ${{job.status}}
           fields: repo,message, workflow, job,ref
-          author_name: Github Action Slack
+          author_name: NYEONGUK
