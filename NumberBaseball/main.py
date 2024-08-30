@@ -1,3 +1,5 @@
+#made by uk, nyeong
+
 import random
 
 count = 0        #반복횟수
